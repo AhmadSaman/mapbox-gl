@@ -22,7 +22,7 @@ function Info({ info }) {
               Next Point: {info.distance.next} meters
             </Text>
             <Text fontSize="lg" marginTop={"2"}>
-              Previous Point {2}: {info.distance.prev} meters
+              Previous Point: {info.distance.prev} meters
             </Text>
           </Box>
         </Box>
